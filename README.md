@@ -62,6 +62,9 @@ I am eager to explore opportunities that align with my technical skills and pass
 **📧 Email:** deepakkumarsingh7774@gmail.com
 Feel free to explore my repositories or connect with me to discuss how I can contribute to your projects.  
 
+[![LinkedIn Banner](https://your-repository-link.com/path-to-image.png)](https://www.linkedin.com/in/deepakkumar7774)
+
+
 
 
 
