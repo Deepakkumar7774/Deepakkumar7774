@@ -40,9 +40,11 @@ I am currently upskilling as a **Data Analyst** at **KultureHire**, where I am g
 
 ## 📂 Notable Projects
 
-1. [Sales Dashboard Analysis](https://github.com/yourusername/sales-dashboard)
-2. [Customer Segmentation](https://github.com/yourusername/customer-segmentation)
-3. [SQL Portfolio](https://github.com/yourusername/sql-portfolio)
+1. [Call Center Analysis](https://github.com/Deepakkumar7774/Call-Center-Analysis)
+   
+2. [Diversity & Inclusion Analysis](https://github.com/Deepakkumar7774/Diversity-Inclusion-Analysis)
+   
+3. [FlipMart Sales Analysis](https://github.com/Deepakkumar7774/FlipMart-Sales-Analysis)
 
 
 ## 🌟 What Drives Me:
@@ -58,7 +60,9 @@ I am eager to explore opportunities that align with my technical skills and pass
 ## 📫 Let's Connect! 🚀
 
 **💻 GitHub:** [github.com/Deepakkumar7774](https://github.com/Deepakkumar7774)
+
 **💼 LinkedIn:** [linkedin.com/in/deepakkumar7774](https://linkedin.com/in/deepakkumar7774)
+
 **📧 Email:** deepakkumarsingh7774@gmail.com
 
 
