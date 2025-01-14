@@ -60,6 +60,8 @@ I am eager to explore opportunities that align with my technical skills and pass
 **💻 GitHub:** [github.com/Deepakkumar7774](https://github.com/Deepakkumar7774)
 **💼 LinkedIn:** [linkedin.com/in/deepakkumar7774](https://linkedin.com/in/deepakkumar7774)
 **📧 Email:** deepakkumarsingh7774@gmail.com
+
+
 Feel free to explore my repositories or connect with me to discuss how I can contribute to your projects.  
 
 
