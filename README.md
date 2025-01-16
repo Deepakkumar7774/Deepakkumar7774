@@ -21,6 +21,8 @@ I am currently upskilling as a **Data Analyst** at **KultureHire**, where I am g
 - **Statistical Analysis**: Applying statistical methods to uncover trends and patterns in data.  
 - **Data Standardization Frameworks**: Ensuring consistency and accuracy in datasets for reliable decision-making.
 
+Currently, I am enrolled in a **Data Analytics Internship at Labmentix**
+
 
 ## 🛠️ Skills & Tools
 
