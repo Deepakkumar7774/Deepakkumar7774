@@ -70,8 +70,6 @@ I am eager to explore opportunities that align with my technical skills and pass
 
 Feel free to explore my repositories or connect with me to discuss how I can contribute to your projects.  
 
-https://camo.githubusercontent.com/f595a22896637b8a4d748c85a87f3a9f128739c1c2f4eb50ac511f669f4b0056/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d6b6f6d616c736861726d6130266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666c6174
-
 
 
 
