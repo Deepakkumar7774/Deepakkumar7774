@@ -15,6 +15,7 @@ With over a year of experienced in financial market, and network marketing, I br
 ## 📊 Current Focus
 
 I am currently upskilling as a **Data Analyst** at **KultureHire**, where I am gaining hands-on experience in:  
+ **Gen Z Career Aspirations**
 - **Data Preparation and Cleaning**: Organizing and transforming raw data into structured formats.  
 - **Insights Generation**: Leveraging **MySQL** and **MS Excel** to derive actionable business insights.  
 - **Data Visualization**: Creating impactful dashboards and reports using **Excel** and **Power BI**.  
