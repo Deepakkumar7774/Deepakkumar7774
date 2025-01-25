@@ -53,6 +53,7 @@ Currently, I am enrolled in a **Data Analytics Internship at Labmentix**, where 
 - Data Analytics Job Simulation, Quantium
 - Data Visualisation Job Simulation, Tata Group
 - Power BI Job Simulation, PwC Switzerland
+- Master Data Management, TCS iON
 
 
 ## 📂 Notable Projects
