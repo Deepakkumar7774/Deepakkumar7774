@@ -26,7 +26,7 @@ I am currently upskilling as a **Data Analyst** at **KultureHire**, where I am g
 
 Currently, I am enrolled in a **Data Analytics Internship at Labmentix**, where I am gaining hands-on experience in:
 
-**1st Week Projects alloted:**
+**1st Week Projects allotted:**
 
  **1. E-Commerce Project Analysis**
 
