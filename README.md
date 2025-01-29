@@ -66,6 +66,8 @@ Currently, I am enrolled in a **Data Analytics Internship at Labmentix**, where 
 
 4. [E-Commerce-Project-Analysis](https://github.com/Deepakkumar7774/E-Commerce-Project-Analysis)
 
+5. [Digital-Clock-Using-in-Python](https://github.com/Deepakkumar7774/Digital-Clock-Using-in-Python)
+
 
 ## 🌟 What Drives Me:
 
