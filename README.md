@@ -24,6 +24,15 @@ I am currently upskilling as a **Data Analyst** at **KultureHire**, where I am g
 - **Statistical Analysis**: Applying statistical methods to uncover trends and patterns in data.  
 - **Data Standardization Frameworks**: Ensuring consistency and accuracy in datasets for reliable decision-making.
 
+**Project Achievements**
+
+🔹 Excel Dashboard Project:
+Created a comprehensive dashboard in Excel to analyze and visualize the Career Aspirations of Gen Z, providing insights into trends and demographic breakdowns.
+
+🔹 Power BI Dashboard Project:
+Developed an interactive Power BI Dashboard focusing on Gen Z Career Aspirations, including dynamic KPIs, gender-based slicers, and insights into employer expectations and mission-driven aspirations.
+
+
 Currently, I am enrolled in a **Data Analytics Internship at Labmentix**, where I am gaining hands-on experience in:
 
 **1st Week Projects allotted:**
@@ -67,6 +76,8 @@ Currently, I am enrolled in a **Data Analytics Internship at Labmentix**, where 
 4. [E-Commerce-Project-Analysis](https://github.com/Deepakkumar7774/E-Commerce-Project-Analysis)
 
 5. [Digital-Clock-Using-in-Python](https://github.com/Deepakkumar7774/Digital-Clock-Using-in-Python)
+
+6. [Career-Aspiartions-of-Gen-Z](https://github.com/Deepakkumar7774/Career-Aspiartions-of-Gen-Z)
 
 
 ## 🌟 What Drives Me:
