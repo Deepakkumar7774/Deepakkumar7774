@@ -62,10 +62,11 @@ Currently, I am enrolled in a **Data Analytics Internship at Labmentix**, where 
 
  **Technologies Used**
 
- - **Programming Language: Python**
- - **Libraries: Pandas, NumPy, Matplotlib, Seaborn**
+ - Programming Language: Python
+ - Libraries: Pandas, NumPy, Matplotlib, Seaborn
 
-2. 
+ **2. Online retailer business: toy replica case study Using MySQL**
+ Work in Progress........
 
 ## 🛠️ Skills & Tools
 
