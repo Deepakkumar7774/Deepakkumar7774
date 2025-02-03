@@ -47,11 +47,30 @@ Currently, I am enrolled in a **Data Analytics Internship at Labmentix**, where 
 
 - **Applying DAX for advanced data analysis in Power BI**
 
+**2ndt Week Projects allotted: 
+(2) Projects** 
+
+ **1. Medibuddy Capstone Project Using Python**
+
+ - **Data cleaning and preprocessing****
+
+ - **Exploratory data analysis (EDA)**
+
+ - **Visualization of key insights**
+
+ - **Impact analysis of different factors on insurance claims**
+
+ **Technologies Used**
+
+ - **Programming Language: Python**
+ - **Libraries: Pandas, NumPy, Matplotlib, Seaborn**
+
+
 
 ## 🛠️ Skills & Tools
 
-- **Programming:** Python, R, SQL (MySQL, PostgreSQL)
-- **Visualization:** Power BI
+- **Programming:** Python, SQL (MySQL, PostgreSQL)
+- **Visualization:** Power BI, Excel
 - **Analytics:** Data Cleaning, Predictive Modeling
 - **Tools:** Advanced Excel, Google Sheets
 
@@ -78,6 +97,8 @@ Currently, I am enrolled in a **Data Analytics Internship at Labmentix**, where 
 5. [Digital-Clock-Using-in-Python](https://github.com/Deepakkumar7774/Digital-Clock-Using-in-Python)
 
 6. [Career-Aspiartions-of-Gen-Z](https://github.com/Deepakkumar7774/Career-Aspiartions-of-Gen-Z)
+
+7. [Career-Aspiartions-of-Gen-Z](https://github.com/Deepakkumar7774/)
 
 
 ## 🌟 What Drives Me:
