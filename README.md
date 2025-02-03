@@ -98,7 +98,7 @@ Currently, I am enrolled in a **Data Analytics Internship at Labmentix**, where 
 
 6. [Career-Aspiartions-of-Gen-Z](https://github.com/Deepakkumar7774/Career-Aspiartions-of-Gen-Z)
 
-7. [Career-Aspiartions-of-Gen-Z](https://github.com/Deepakkumar7774/)
+7. [Medibuddy-Insurance-Analysis-in-Python](https://github.com/Deepakkumar7774/Medibuddy-Insurance-Analysis-in-Python)
 
 
 ## 🌟 What Drives Me:
