@@ -47,7 +47,7 @@ Currently, I am enrolled in a **Data Analytics Internship at Labmentix**, where 
 
 - **Applying DAX for advanced data analysis in Power BI**
 
-**2ndt Week Projects allotted: 
+**2nd Week Projects allotted: 
 (2) Projects** 
 
  **1. Medibuddy Capstone Project Using Python**
@@ -65,7 +65,7 @@ Currently, I am enrolled in a **Data Analytics Internship at Labmentix**, where 
  - **Programming Language: Python**
  - **Libraries: Pandas, NumPy, Matplotlib, Seaborn**
 
-
+2. 
 
 ## 🛠️ Skills & Tools
 
