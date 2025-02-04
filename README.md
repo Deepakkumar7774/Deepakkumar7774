@@ -1,3 +1,6 @@
+![Profile Views](https://komarev.com/ghpvc/?username=DeepakKumar&color=green&style=for-the-badge)
+
+
 # Hi 👋, I'm Deepak Kumar 
 
 ## 🌟 About Me
