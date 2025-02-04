@@ -1,5 +1,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=DeepakKumar&color=green&style=for-the-badge)
 
+**# 🌟 Welcome to My GitHub Profile!**
+
 
 # Hi 👋, I'm Deepak Kumar 
 
@@ -79,6 +81,46 @@ Currently, I am enrolled in a **Data Analytics Internship at Labmentix**, where 
 - **Tools:** Advanced Excel, Google Sheets
 
 
+
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deepakkumar7774)
+
+
+
+## 💻 Tech Stack:
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+
+
+
+## 📊 GitHub Stats:
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Deepakkumar7774&show_icons=true&theme=radical)
+
+
+### Most Used Languages:
+
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Deepakkumar7774&layout=compact&theme=radical)
+
+
+
+## 🏆 GitHub Trophies:
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Deepakkumar7774&theme=radical)
+
+
+
+## 📸 Screenshot:
+Here’s an overview of my stats and tech stack:
+
+![Overview](https://raw.githubusercontent.com/Deepakkumar7774/yourrepo/main/yourimagefile.jpeg)
+
+
+
 ## 🎓 Certifications
 
 - SQL Gold Badge, HackerRank 🥇
@@ -115,13 +157,13 @@ I am passionate about utilizing my diverse skill set to thrive in dynamic, data-
 I am eager to explore opportunities that align with my technical skills and passion for creating value, particularly in **Data Analyst**.
 
 
-## 📫 Let's Connect! 🚀
+**## 📫 Let's Connect! 🚀**
 
-**💻 GitHub:** [github.com/Deepakkumar7774](https://github.com/Deepakkumar7774)
+ **💻 GitHub: [github.com/Deepakkumar7774](https://github.com/Deepakkumar7774)**
 
-**💼 LinkedIn:** [linkedin.com/Deepakkumar7774](https://linkedin.com/in/deepakkumar7774)  
-
-**📧 Email:** deepakkumarsingh7774@gmail.com
+ **💬 Message me on [LinkedIn](https://www.linkedin.com/in/deepakkumar7774)**
+ 
+ **📬 Email me at [deepakkumarsingh7774@gmail.com](mailto:deepakkumarsingh7774@gmail.com)**
 
 
 **Feel free to explore my repositories or connect with me to discuss how I can contribute to your projects. ** 
