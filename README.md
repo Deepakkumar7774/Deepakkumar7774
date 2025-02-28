@@ -142,7 +142,7 @@ Here’s an overview of my stats and tech stack:
 
 5. [Digital-Clock-Using-in-Python](https://github.com/Deepakkumar7774/Digital-Clock-Using-in-Python)
 
-6. [Career-Aspirations-of-Gen-Z](https://github.com/Deepakkumar7774/Career-Aspiartions-of-Gen-Z)
+6. [Career-Aspirations-of-Gen-Z](https://github.com/Deepakkumar7774/Career-Aspirations-of-Gen-Z)
 
 7. [Medibuddy-Insurance-Analysis-in-Python](https://github.com/Deepakkumar7774/Medibuddy-Insurance-Analysis-in-Python)
 
