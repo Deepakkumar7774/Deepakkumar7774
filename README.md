@@ -28,7 +28,7 @@ I successfully completed my **Data Analyst internship** at **KultureHire**, wher
 - **Data Visualization**: Creating impactful dashboards and reports using **Excel** and **Power BI**.  
 - **Statistical Analysis**: Applying statistical methods to uncover trends and patterns in data.  
 - **Data Standardization Frameworks**: Ensuring consistency and accuracy in datasets for reliable decision-making.
-- **Data Storytelling** : Career aspirations of gen z insights **Power Point**.
+- **Data Storytelling** : Career aspirations of gen z insights using  **Power Point**.
 
 
 **Project Achievements**
