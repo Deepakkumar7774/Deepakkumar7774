@@ -28,6 +28,8 @@ I am currently upskilling as a **Data Analyst** at **KultureHire**, where I am g
 - **Data Visualization**: Creating impactful dashboards and reports using **Excel** and **Power BI**.  
 - **Statistical Analysis**: Applying statistical methods to uncover trends and patterns in data.  
 - **Data Standardization Frameworks**: Ensuring consistency and accuracy in datasets for reliable decision-making.
+- **Data Storytelling** : Career aspirations of gen z in power point 
+
 
 **Project Achievements**
 
