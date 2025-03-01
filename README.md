@@ -19,7 +19,7 @@ With over a year of experienced in financial market, and network marketing, I br
 
 ## 📊 Current Focus
 
-I am currently upskilling as a **Data Analyst** at **KultureHire**, where I am gaining hands-on experience in: 
+I successfully completed my **Data Analyst internship** at **KultureHire**, where I am gaining hands-on experience in: 
 
  **Gen Z Career Aspirations**
  
@@ -28,7 +28,7 @@ I am currently upskilling as a **Data Analyst** at **KultureHire**, where I am g
 - **Data Visualization**: Creating impactful dashboards and reports using **Excel** and **Power BI**.  
 - **Statistical Analysis**: Applying statistical methods to uncover trends and patterns in data.  
 - **Data Standardization Frameworks**: Ensuring consistency and accuracy in datasets for reliable decision-making.
-- **Data Storytelling** : Career aspirations of gen z in power point 
+- **Data Storytelling** : Career aspirations of gen z insights **Power Point**.
 
 
 **Project Achievements**
