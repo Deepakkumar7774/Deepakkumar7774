@@ -178,7 +178,7 @@ Here’s an overview of my stats and tech stack:
 
 7. [Medibuddy-Insurance-Analysis-in-Python](https://github.com/Deepakkumar7774/Medibuddy-Insurance-Analysis-in-Python)
 
-8. 
+8. [Online-Retailer-Business-Toy-Replica-Case-study-in-SQL](https://github.com/Deepakkumar7774/Online-Retailer-Business-Toy-Replica-Case-study-in-SQL)
 
 
 ## 🌟 What Drives Me:
