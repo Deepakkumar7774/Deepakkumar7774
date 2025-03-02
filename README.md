@@ -123,23 +123,44 @@ Ensure you have:
 
 ## 📊 GitHub Stats:
 
-![Deepak's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Deepakkumar7774&show_icons=true&theme=radical&include_all_commits=true&count_private=true)  
-
-
-
-
-### 🚀 Most Used Languages & Tools:
-
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Deepakkumar7774&layout=compact&theme=radical)
-
-
+![Deepak's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Deepakkumar7774&show_icons=true&theme=radical&include_all_commits=true&count_private=true)    
 
 ## 🏆 GitHub Trophies:
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Deepakkumar7774&theme=radical)
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Deepakkumar7774&theme=radical&no-frame=true&margin-w=15)  
+
+## 📊 GitHub Streak:
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Deepakkumar7774&theme=radical)  
+
+## 🔝 Most Used Languages:
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Deepakkumar7774&layout=compact&theme=radical)  
+
+## 📈 GitHub Activity Graph:
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Deepakkumar7774&theme=radical)  
+
+## 🔥 Total Commits:
+
+![Total Commits](https://badges.pufler.dev/commits/monthly/Deepakkumar7774)  
+
+## 🏆 Total Contributions:
+
+![GitHub Contributions](https://github-contributor-stats.vercel.app/api?username=Deepakkumar7774&limit=5&theme=radical)  
+
+## 🚀 GitHub Followers:  
+
+![GitHub Followers](https://img.shields.io/github/followers/Deepakkumar7774?style=social)  
+
+## 📌 GitHub Stars:  
+
+![GitHub Stars](https://img.shields.io/github/stars/Deepakkumar7774?style=social)  
 
 
 
 ## 📸 Screenshot:
+
 Here’s an overview of my stats and tech stack:
 
 ![Overview](https://raw.githubusercontent.com/Deepakkumar7774/Call-Center-Analysis/main/yourimagefile.jpeg)
