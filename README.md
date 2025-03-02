@@ -67,7 +67,7 @@ Currently, I am enrolled in a **Data Analytics Internship at Labmentix**, where 
 
  - **Impact analysis of different factors on insurance claims**
 
- **Technologies Used**
+  **🛠 Technologies Used**
 
  - Programming Language: Python
  - Libraries: Pandas, NumPy, Matplotlib, Seaborn
@@ -87,13 +87,37 @@ Currently, I am enrolled in a **Data Analytics Internship at Labmentix**, where 
 
   **🛠 Setup & Execution**
 
-Ensure you have:
+  Ensure you have:
 
  - ✅ SQL Database System (MySQL, PostgreSQL, or SQL Server)
 
  - ✅ SQL Client Tool (MySQL Workbench, pgAdmin, SSMS)
 
 
+**3. 🎬 Amazon Prime Video - Exploratory Data Analysis (EDA)**
+
+ - ✅ Cleaned and preprocessed the dataset for analysis 📊
+   
+ - ✅ Performed EDA to identify trends in content distribution 🎥
+   
+ - ✅ Visualized insights using Python data visualization libraries 📈
+   
+ - ✅ Explored genre popularity, release year trends, and IMDb ratings 📊
+   
+ - ✅ Derived business insights to enhance user recommendations and content strategy
+
+
+   **🛠 Tools & Technologies Used:**
+   
+    🔹 Python – Data processing and analysis 🐍
+   
+    🔹 Pandas & NumPy – Data cleaning and transformation 📄
+   
+    🔹 Matplotlib & Seaborn – Data visualization and insights 📊
+   
+    🔹 Jupyter Notebook – Interactive analysis and report generation 📝
+
+   
 ## 🛠️ Skills & Tools
 
 - **Programming:** Python, SQL (MySQL, PostgreSQL)
