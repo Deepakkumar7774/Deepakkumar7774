@@ -124,6 +124,8 @@ Ensure you have:
 ## 📊 GitHub Stats:
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Deepakkumar7774&show_icons=true&theme=radical)
+![Deepak's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Deepakkumar7774&show_icons=true&theme=radical&include_all_commits=true&count_private=true)  
+
 
 
 
