@@ -73,7 +73,26 @@ Currently, I am enrolled in a **Data Analytics Internship at Labmentix**, where 
  - Libraries: Pandas, NumPy, Matplotlib, Seaborn
 
  **2. Online retailer business: toy replica case study Using MySQL**
- Work in Progress........
+
+ - ✅ Database Design & ERD Modeling
+ 
+ - ✅ Advanced SQL Query Writing (JOINS, Aggregations, Window Functions)
+
+ - ✅ Data Cleaning & Transformation
+ 
+ - ✅ OLAP & OLTP Query Optimization
+ 
+ - ✅ Business Intelligence & Data Analytics
+
+
+  **🛠 Setup & Execution**
+
+Ensure you have:
+
+ - ✅ SQL Database System (MySQL, PostgreSQL, or SQL Server)
+
+ - ✅ SQL Client Tool (MySQL Workbench, pgAdmin, SSMS)
+
 
 ## 🛠️ Skills & Tools
 
