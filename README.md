@@ -132,14 +132,6 @@ Ensure you have:
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Deepakkumar7774&layout=compact&theme=radical)
 
 
-#### 🛠 Tools & Technologies:
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=database&logoColor=white)
-![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-
-
-
 
 ## 🏆 GitHub Trophies:
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Deepakkumar7774&theme=radical)
@@ -149,7 +141,15 @@ Ensure you have:
 ## 📸 Screenshot:
 Here’s an overview of my stats and tech stack:
 
-![Overview](https://raw.githubusercontent.com/Deepakkumar7774/yourrepo/main/yourimagefile.jpeg)
+![Overview](https://raw.githubusercontent.com/Deepakkumar7774/Call-Center-Analysis/main/yourimagefile.jpeg)
+![Overview](https://raw.githubusercontent.com/Deepakkumar7774/Diversity-Inclusion-Analysis/main/yourimagefile.jpeg)
+![Overview](https://raw.githubusercontent.com/Deepakkumar7774/FlipMart-Sales-Analysis/main/yourimagefile.jpeg)
+![Overview](https://raw.githubusercontent.com/Deepakkumar7774/E-Commerce-Project-Analysis/main/yourimagefile.jpeg)
+![Overview](https://raw.githubusercontent.com/Deepakkumar7774/Digital-Clock-Using-in-Python/main/yourimagefile.jpeg)
+![Overview](https://raw.githubusercontent.com/Deepakkumar7774/Career-Aspirations-of-Gen-Z/main/yourimagefile.jpeg)
+![Overview](https://raw.githubusercontent.com/Deepakkumar7774/Medibuddy-Insurance-Analysis-in-Python/main/yourimagefile.jpeg)
+
+
 
 
 
@@ -177,6 +177,8 @@ Here’s an overview of my stats and tech stack:
 6. [Career-Aspirations-of-Gen-Z](https://github.com/Deepakkumar7774/Career-Aspirations-of-Gen-Z)
 
 7. [Medibuddy-Insurance-Analysis-in-Python](https://github.com/Deepakkumar7774/Medibuddy-Insurance-Analysis-in-Python)
+
+8. 
 
 
 ## 🌟 What Drives Me:
