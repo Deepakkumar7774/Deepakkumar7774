@@ -117,6 +117,18 @@ Currently, I am enrolled in a **Data Analytics Internship at Labmentix**, where 
    
     🔹 Jupyter Notebook – Interactive analysis and report generation 📝
 
+
+**4. YES Bank Stock Market Analysis - Exploratory Data Analysis (EDA) 📊**
+
+   **Tools and Technologies Used 🛠️**
+
+   🔹 Python: For data processing and analysis. 🐍
+
+   🔹 Pandas & NumPy: For data cleaning and manipulation. 📄
+
+  🔹 Matplotlib & Seaborn: For data visualization and insights. 📊
+
+  🔹 Jupyter Notebook: For interactive analysis and reporting. 📝
    
 ## 🛠️ Skills & Tools
 
