@@ -240,6 +240,8 @@ Here’s an overview of my stats and tech stack:
 
 9. [Amazon-Prime-EDA-Project](https://github.com/Deepakkumar7774/Amazon-Prime-EDA-Project)
 
+10. [Yes-Bank-EDA-Project](https://github.com/Deepakkumar7774/Yes-Bank-EDA-Project)
+
 
 ## 🌟 What Drives Me:
 
