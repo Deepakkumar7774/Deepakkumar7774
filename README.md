@@ -238,6 +238,8 @@ Here’s an overview of my stats and tech stack:
 
 8. [Online-Retailer-Business-Toy-Replica-Case-study-in-SQL](https://github.com/Deepakkumar7774/Online-Retailer-Business-Toy-Replica-Case-study-in-SQL)
 
+9. [Amazon-Prime-EDA-Project](https://github.com/Deepakkumar7774/Amazon-Prime-EDA-Project)
+
 
 ## 🌟 What Drives Me:
 
