@@ -42,7 +42,7 @@ Developed an interactive Power BI Dashboard focusing on Gen Z Career Aspirations
 
 Currently, I am enrolled in a **Data Analytics Internship at Labmentix**, where I am gaining hands-on experience in:
 
-**1st Week Projects allotted:**
+**1st Projects allotted:**
 
  **1. E-Commerce Project Analysis**
 
@@ -54,7 +54,7 @@ Currently, I am enrolled in a **Data Analytics Internship at Labmentix**, where 
 
 - **Applying DAX for advanced data analysis in Power BI**
 
-**2nd Week Projects allotted: 
+**2nd Projects allotted: 
 (2) Projects** 
 
  **1. Medibuddy Capstone Project Using Python**
@@ -130,13 +130,35 @@ Currently, I am enrolled in a **Data Analytics Internship at Labmentix**, where 
 
   🔹 Jupyter Notebook: For interactive analysis and reporting. 📝
    
-## 🛠️ Skills & Tools
+   ## 🛠️ Skills & Tools
 
-- **Programming:** Python, SQL (MySQL, PostgreSQL)
-- **Visualization:** Power BI, Excel
-- **Analytics:** Data Cleaning, Predictive Modeling
-- **Tools:** Advanced Excel, Google Sheets
+  - **Programming:** Python, SQL (MySQL, PostgreSQL)
+  - **Visualization:** Power BI, Excel
+  - **Analytics:** Data Cleaning
+  - **Tools:** Advanced Excel, Google Sheets
 
+
+**5. Flipkart Customer support Analysis - Exploratory Data Analysis (EDA) 📊**
+
+ - ✅ Data Cleaning – Handled missing values, removed duplicates, and standardized formats.
+ - ✅ Exploratory Data Analysis (EDA) – Analyzed customer reviews, ratings, and trends.
+ - ✅ Feature Engineering – Created sentiment scores and categorized reviews.
+ - ✅ Data Visualization – Used Matplotlib & Seaborn to generate insights on CSAT trends.
+ - ✅ Business Recommendations – Suggested improvements for better customer experience
+
+   **Tools and Technologies Used 🛠️**
+
+       🐍 Python: Data analysis & visualization
+       📊 Pandas & NumPy: Data cleaning & manipulation
+       📉 Matplotlib & Seaborn: Data visualization & trend analysis
+       📝 Jupyter Notebook: Interactive data exploration
+
+   **## 🛠️ Skills & Tools**
+
+  - **Programming:** Python, SQL (MySQL, PostgreSQL)
+  - **Visualization:** Power BI, Excel
+  - **Analytics:** Data Cleaning
+  - **Tools:** Advanced Excel, Google Sheets
 
 
 
@@ -241,6 +263,8 @@ Here’s an overview of my stats and tech stack:
 9. [Amazon-Prime-EDA-Project](https://github.com/Deepakkumar7774/Amazon-Prime-EDA-Project)
 
 10. [Yes-Bank-EDA-Project](https://github.com/Deepakkumar7774/Yes-Bank-EDA-Project)
+
+11. [Flipkart_Customer_Support_Analysis_EDA_Project](https://github.com/Deepakkumar7774/Flipkart_Customer_Support_Analysis_EDA_Project)
 
 
 ## 🌟 What Drives Me:
