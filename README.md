@@ -266,6 +266,8 @@ Here’s an overview of my stats and tech stack:
 
 11. [Flipkart_Customer_Support_Analysis_EDA_Project](https://github.com/Deepakkumar7774/Flipkart_Customer_Support_Analysis_EDA_Project)
 
+12. [Myntra-Customer-Analysis-And-Insights](https://github.com/Deepakkumar7774/Myntra-Customer-Analysis-And-Insights)
+
 
 ## 🌟 What Drives Me:
 
