@@ -268,6 +268,8 @@ Here’s an overview of my stats and tech stack:
 
 12. [Myntra-Customer-Analysis-And-Insights](https://github.com/Deepakkumar7774/Myntra-Customer-Analysis-And-Insights)
 
+13. [Amazon-Prime-Video-Dashboard](https://github.com/Deepakkumar7774/Amazon-Prime-Video-Dashboard)
+
 
 ## 🌟 What Drives Me:
 
