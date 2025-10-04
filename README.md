@@ -40,7 +40,7 @@ Created a comprehensive dashboard in Excel to analyze and visualize the Career A
 Developed an interactive Power BI Dashboard focusing on Gen Z Career Aspirations, including dynamic KPIs, gender-based slicers, and insights into employer expectations and mission-driven aspirations.
 
 
-successfully completed my **Data Analytics internship at Labmentix**, where I am gaining hands-on experience in:
+I successfully completed my **Data Analytics internship at Labmentix**, where I am gaining hands-on experience in:
 
  **1. E-Commerce Project Analysis**
 
