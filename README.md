@@ -247,7 +247,7 @@ I successfully completed my **Data Analytics internship at Labmentix**, where I 
 
 ## 📊 GitHub Stats:
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Deepakkumar7774&show_icons=true&theme=radical&include_all_commits=true&count_privatehttps://github-readme-streak-stats.herokuapp.com/?user=Deepakkumar7774&theme=radhttps://github-readme-stats.vercel.app/api/top-langs/?username=Deepakkumar7774&layout=compact&theme=rad
+![Deepak's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Deepakkumar7774&show_icons=true&theme=radical&include_all_commits=true&count_private=true)   
  
 
 ## 🏆 GitHub Trophies:
