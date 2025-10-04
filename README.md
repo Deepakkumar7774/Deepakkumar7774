@@ -7,7 +7,46 @@
 
 ## 🌟 About Me
 
-With over a year of experienced in financial market, and network marketing, I bring a unique blend of technical expertise and client-focused skills to every project. My journey began at **Schneider Electric**, Chennai, where I developed strong technical and organizational capabilities. Later, as a **Processing Associate** at **Altruist Technologies Pvt. Ltd.**, I managed credit card payments, personal loans, and promoted financial services for Credit Mantri, further enhancing my client engagement and problem-solving skills.
+I am a passionate Data Analyst with real-world experience across finance, network marketing, and data analytics. My career began at Schneider Electric, Chennai as a field service role, helping me develop strong technical and organizational abilities. I later joined Altruist Technologies Pvt. Ltd. as a Processing Associate, gaining hands-on expertise in credit card payment processing, loan management, and client engagement. My focus today is on delivering actionable insights, automating processes, and helping organizations make better decisions using data.
+
+**💼 Professional Experience**
+**Data Analytics Intern – KultureHire**
+
+-> Data cleaning and organization for Gen Z career aspirations research.
+
+-> Used MySQL and MS Excel for developing structured, actionable business insights.
+
+-> Created interactive dashboards in Excel and Power BI, visualizing trends and presenting insights to project teams.
+
+-> Applied statistical analysis to identify meaningful patterns from unstructured data, creating frameworks for standardized reporting and ensuring data consistency.
+
+-> Presented findings through compelling data storytelling and PowerPoint presentations.
+
+**Data Analytics Intern – Labmentix**
+
+ ->Conducted end-to-end analysis of e-commerce and healthcare datasets.
+
+-> Used Python, SQL, and Excel for data cleaning, preprocessing, and advanced analytics.
+
+-> Built and shared data dashboards in Power BI, leveraging DAX for deeper analysis.
+
+-> Designed and optimized databases, including database schema and ERD modeling.
+
+-> Led exploratory data analysis and provided actionable business recommendations.
+
+**Processing Associate – Altruist Technologies Pvt. Ltd.**
+
+-> Managed payment operations for Credit Mantri; processed credit card payments and personal loans.
+
+-> Promoted financial products, drove client acquisition campaigns, and resolved client issues.
+
+-> Developed strong customer service, communication, and relationship management skills.
+
+-> Technical Field Experience – Schneider Electric, Chennai
+
+-> Supported field teams operationally.
+
+-> Built foundational technical, compliance, and process skills.
 
 
 ## 💼 Core Competencies
@@ -207,6 +246,8 @@ I successfully completed my **Data Analytics internship at Labmentix**, where I 
 
 
 ## 📊 GitHub Stats:
+
+![Deepak's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Deepakkumar7774&show_icons=true&theme=radical&include_all_commits=true&count_privatehttps://github-readme-streak-stats.herokuapp.com/?user=Deepakkumar7774&theme=radhttps://github-readme-stats.vercel.app/api/top-langs/?username=Deepakkumar7774&layout=compact&theme=rad
 
 ![Deepak's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Deepakkumar7774&show_icons=true&theme=radical&include_all_commits=true&count_private=true)    
 
