@@ -42,8 +42,6 @@ Developed an interactive Power BI Dashboard focusing on Gen Z Career Aspirations
 
 successfully completed my **Data Analytics internship at Labmentix**, where I am gaining hands-on experience in:
 
-**1st Projects allotted:**
-
  **1. E-Commerce Project Analysis**
 
 - **Data preprocessing and cleaning using Python and Excel**
@@ -54,8 +52,7 @@ successfully completed my **Data Analytics internship at Labmentix**, where I am
 
 - **Applying DAX for advanced data analysis in Power BI**
 
-**2nd Projects allotted: 
-(2) Projects** 
+**(2) Projects** 
 
  **1. Medibuddy Capstone Project Using Python**
 
