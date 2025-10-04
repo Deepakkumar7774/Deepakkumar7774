@@ -153,6 +153,36 @@ successfully completed my **Data Analytics internship at Labmentix**, where I am
        📉 Matplotlib & Seaborn: Data visualization & trend analysis
        📝 Jupyter Notebook: Interactive data exploration
 
+
+
+**6. 📊 Netflix Content Analysis – Exploratory Data Analysis (EDA) Project**
+
+**Tools and Technologies Used 🛠️**
+
+   🔹 Python: For data processing and analysis. 🐍
+
+   🔹 Pandas & NumPy: For data cleaning and manipulation. 📄
+
+  🔹 Matplotlib & Seaborn: For data visualization and insights. 📊
+
+  🔹 Jupyter Notebook: For interactive analysis and reporting. 📝
+
+
+
+**7. 🛍️ Myntra Customer Analysis & Insights**
+
+**Tools and Technologies Used 🛠️**
+
+   🔹 Python: For data processing and analysis. 🐍
+
+   🔹 Pandas & NumPy: For data cleaning and manipulation. 📄
+
+  🔹 Matplotlib & Seaborn: For data visualization and insights. 📊
+
+  🔹 Jupyter Notebook: For interactive analysis and reporting. 📝
+
+
+
    **## 🛠️ Skills & Tools**
 
   - **Programming:** Python, SQL (MySQL, PostgreSQL)
