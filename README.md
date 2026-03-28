@@ -2,89 +2,33 @@
 
 **# 🌟 Welcome to My GitHub Profile!**
 
-**#👋 Hi, I'm Deepak Kumar | Data Analyst & Engineer 🚀**
 
-I am a results-driven Data Analyst with a B.Sc. in Computer Science and a Diploma in CSE.  My expertise lies in bridging the gap between raw data and executive strategy. From optimizing industrial workflows at NTPC Rihand to delivering global insights for PwC and Amazon Prime, I build scalable data systems that drive decision-making. 
-
-**🛠️ My Technical Arsenal** 
-
-**Programming & Databases**:
-
--> Python (Pandas, NumPy, Matplotlib, Seaborn), SQL (MySQL, PostgreSQL), Database Schema Design, and ERD Modeling. 
-
--> BI & Visualization: Power BI (Advanced DAX), Tableau, and Advanced Excel (XLOOKUP, Pivot Tables).
-
--> Operations & Automation: SharePoint Page Customization, SAP, Power Automate, and Microsoft Office 365.
-
--> Analytics Specialties: Exploratory Data Analysis (EDA), Statistical Modeling, Trend Analysis, and Data Warehousing Standards. 
-
-**🚀 Featured Portfolio Projects** 
-
-
-**🎬 Entertainment & Retail Analytics**
-
-**Amazon Prime Video EDA:** Conducted end-to-end Python analysis to identify content distribution trends and IMDb rating patterns for strategic recommendations.
-
-**Online Retailer (Toy Replica):** Built a full MySQL database from scratch, featuring OLAP/OLTP query optimization and complex window functions.
-
-**Netflix Content Analysis:** Visualized global genre popularity and release year trends using Matplotlib and Seaborn.
-
-**🏥 Healthcare & Finance**
-
-
-**Medibuddy Capstone:** Performed impact analysis on insurance claims using Python to uncover key cost drivers and demographic correlations.
-
-**YES Bank Stock Analysis:** Executed time-series EDA to visualize market volatility and identify price patterns.
-
-**PwC Switzerland HR Dashboard:** Engineered a Power BI model focusing on Gender KPIs to identify organizational promotion disparities. 
-
-**📈 Consumer & Career Insights**
-
-
-**Gen Z Career Aspirations:** Developed dynamic dashboards in Excel and Power BI to visualize demographic breakdowns and employer expectations. 
-
-**Flipkart Customer Support:** Standardized raw support data to generate sentiment scores and CSAT trend insights.
-
-**💼 Professional Experience**
-
-
-**NTPC Rihand Limited | Apprentice:** Automated certification tracking and optimized SAP-based administrative data workflows for a large-scale workforce.
-
-**Labmentix | Data Analytics Internship:** Led e-commerce and healthcare data preprocessing using SQL for OLAP optimization.
-
-**KultureHire | Data Analytics Internship:** Engineered statistical frameworks and dashboards for standardized career research reporting. 
-
-**🏆 Achievements & Certifications**
-
-
-SQL 🥇 HackerRank Gold BadgeData Science 🐍 Python Specialist Business Intelligence 📊 Power BI & DAX Expert 
-
-**📫 Let's Connect!**
-
-
-**LinkedIn: linkedin.com/in/deepakkumar7774**
-**Email: deepakkumarsingh7774@gmail.com**
-
-# Hi 👋, I'm Deepak Kumar 
+# Hi 👋, I'm Deepak Kumar | Data Analyst & Engineer 🚀
 
 ## 🌟 About Me
 
-I am a passionate Data Analyst with real-world experience across finance, network marketing, and data analytics. My career began at Schneider Electric, Chennai as a field service role, helping me develop strong technical and organizational abilities. I later joined Altruist Technologies Pvt. Ltd. as a Processing Associate, gaining hands-on expertise in credit card payment processing, loan management, and client engagement. My focus today is on delivering actionable insights, automating processes, and helping organizations make better decisions using data.
+I am a results-driven Data Analyst with a B.Sc. in Computer Science and a Diploma in CSE.  My expertise lies in bridging the gap between raw data and executive strategy. From optimizing industrial workflows at NTPC Rihand to delivering global insights for PwC and Amazon Prime, I build scalable data systems that drive decision-making. 
 
 **💼 Professional Experience**
-**Data Analytics Intern – KultureHire**
+
+
+**NTPC Rihand Limited | Apprentice:** 
+
+-> Automated certification tracking and optimized SAP-based administrative data workflows for a large-scale workforce.
+
+**Data Analytics Internship – KultureHire**
 
 -> Data cleaning and organization for Gen Z career aspirations research.
 
--> Used MySQL and MS Excel for developing structured, actionable business insights.
+-> Used MySQL and Advanced Excel with Copilot for developing structured, actionable business insights.
 
--> Created interactive dashboards in Excel and Power BI, visualizing trends and presenting insights to project teams.
+-> Created interactive dashboards in Advanced Excel with Copilot and Power BI, visualizing trends and presenting insights to project teams.
 
 -> Applied statistical analysis to identify meaningful patterns from unstructured data, creating frameworks for standardized reporting and ensuring data consistency.
 
 -> Presented findings through compelling data storytelling and PowerPoint presentations.
 
-**Data Analytics Intern – Labmentix**
+**Data Analytics Internship – Labmentix**
 
  ->Conducted end-to-end analysis of e-commerce and healthcare datasets.
 
@@ -96,26 +40,6 @@ I am a passionate Data Analyst with real-world experience across finance, networ
 
 -> Led exploratory data analysis and provided actionable business recommendations.
 
-**Processing Associate – Altruist Technologies Pvt. Ltd.**
-
--> Managed payment operations for Credit Mantri; processed credit card payments and personal loans.
-
--> Promoted financial products, drove client acquisition campaigns, and resolved client issues.
-
--> Developed strong customer service, communication, and relationship management skills.
-
--> Technical Field Experience – Schneider Electric, Chennai
-
--> Supported field teams operationally.
-
--> Built foundational technical, compliance, and process skills.
-
-
-## 💼 Core Competencies
-
-- Proficient in **CRM systems**, **MS Office**
-- Strong **customer service** and **communication skills**  
-- Solid foundation in **stock market analysis** and **network marketing**  
 
 
 ## 📊 Current Focus
@@ -257,9 +181,9 @@ I successfully completed my **Data Analytics internship at Labmentix**, where I 
 
 **Tools and Technologies Used 🛠️**
 
-   🔹 Python: For data processing and analysis. 🐍
+  🔹 Python: For data processing and analysis. 🐍
 
-   🔹 Pandas & NumPy: For data cleaning and manipulation. 📄
+  🔹 Pandas & NumPy: For data cleaning and manipulation. 📄
 
   🔹 Matplotlib & Seaborn: For data visualization and insights. 📊
 
@@ -271,9 +195,9 @@ I successfully completed my **Data Analytics internship at Labmentix**, where I 
 
 **Tools and Technologies Used 🛠️**
 
-   🔹 Python: For data processing and analysis. 🐍
+  🔹 Python: For data processing and analysis. 🐍
 
-   🔹 Pandas & NumPy: For data cleaning and manipulation. 📄
+  🔹 Pandas & NumPy: For data cleaning and manipulation. 📄
 
   🔹 Matplotlib & Seaborn: For data visualization and insights. 📊
 
@@ -281,13 +205,16 @@ I successfully completed my **Data Analytics internship at Labmentix**, where I 
 
 
 
-   **## 🛠️ Skills & Tools**
+ **## 🛠️ Skills & Tools**
 
-  - **Programming:** Python, SQL (MySQL, PostgreSQL)
-  - **Visualization:** Power BI, Excel
-  - **Analytics:** Data Cleaning
-  - **Tools:** Advanced Excel, Google Sheets
+   
+ -> Python (Pandas, NumPy, Matplotlib, Seaborn), SQL (MySQL, PostgreSQL), Database Schema Design, and ERD Modeling. 
 
+ -> BI & Visualization: Power BI (Advanced DAX), Tableau, and Advanced Excel (XLOOKUP, Pivot Tables).
+
+ -> Operations & Automation: SharePoint Page Customization, SAP, Power Automate, and Microsoft Office 365.
+
+ -> Analytics Specialties: Exploratory Data Analysis (EDA), Statistical Modeling, Trend Analysis, and Data Warehousing Standards. 
 
 
 ## 🌐 Socials:
@@ -407,7 +334,7 @@ I am passionate about utilizing my diverse skill set to thrive in dynamic, data-
 
 ## 📈 What I’m Looking For:
 
-I am eager to explore opportunities that align with my technical skills and passion for creating value, particularly in **Data Analyst**.
+I am eager to explore opportunities that align with my technical skills and passion for creating value, particularly in **Data Analyst, Product Analyst, Business Analyst, Finance Analyst**.
 
 
 **## 📫 Let's Connect! 🚀**
