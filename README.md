@@ -236,10 +236,9 @@ I successfully completed my **Data Analytics internship at Labmentix**, where I 
   <img src="https://github-readme-stats-fast.vercel.app/api?username=Deepakkumar7774&show_icons=true&theme=radical&count_private=true" alt="Deepak's Stats" width="48%" />
   
 
-
-
 ## 🏆 GitHub Trophies:
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Deepakkumar7774&theme=radical&no-frame=true&margin-w=15)  
+
+![Trophies](https://github-profile-trophy.screw-hand.vercel.app/?username=Deepakkumar7774&theme=radical)
 
 
 ## 📊 GitHub Streak:
