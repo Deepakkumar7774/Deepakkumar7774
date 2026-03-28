@@ -2,6 +2,68 @@
 
 **# 🌟 Welcome to My GitHub Profile!**
 
+**#👋 Hi, I'm Deepak Kumar | Data Analyst & Engineer 🚀**
+
+I am a results-driven Data Analyst with a B.Sc. in Computer Science and a Diploma in CSE.  My expertise lies in bridging the gap between raw data and executive strategy. From optimizing industrial workflows at NTPC Rihand to delivering global insights for PwC and Amazon Prime, I build scalable data systems that drive decision-making. 
+
+**🛠️ My Technical Arsenal** 
+
+**Programming & Databases**:
+
+-> Python (Pandas, NumPy, Matplotlib, Seaborn), SQL (MySQL, PostgreSQL), Database Schema Design, and ERD Modeling. 
+
+-> BI & Visualization: Power BI (Advanced DAX), Tableau, and Advanced Excel (XLOOKUP, Pivot Tables).
+
+-> Operations & Automation: SharePoint Page Customization, SAP, Power Automate, and Microsoft Office 365.
+
+-> Analytics Specialties: Exploratory Data Analysis (EDA), Statistical Modeling, Trend Analysis, and Data Warehousing Standards. 
+
+**🚀 Featured Portfolio Projects** 
+
+
+**🎬 Entertainment & Retail Analytics**
+
+**Amazon Prime Video EDA:** Conducted end-to-end Python analysis to identify content distribution trends and IMDb rating patterns for strategic recommendations.
+
+**Online Retailer (Toy Replica):** Built a full MySQL database from scratch, featuring OLAP/OLTP query optimization and complex window functions.
+
+**Netflix Content Analysis:** Visualized global genre popularity and release year trends using Matplotlib and Seaborn.
+
+**🏥 Healthcare & Finance**
+
+
+**Medibuddy Capstone:** Performed impact analysis on insurance claims using Python to uncover key cost drivers and demographic correlations.
+
+**YES Bank Stock Analysis:** Executed time-series EDA to visualize market volatility and identify price patterns.
+
+**PwC Switzerland HR Dashboard:** Engineered a Power BI model focusing on Gender KPIs to identify organizational promotion disparities. 
+
+**📈 Consumer & Career Insights**
+
+
+**Gen Z Career Aspirations:** Developed dynamic dashboards in Excel and Power BI to visualize demographic breakdowns and employer expectations. 
+
+**Flipkart Customer Support:** Standardized raw support data to generate sentiment scores and CSAT trend insights.
+
+**💼 Professional Experience**
+
+
+**NTPC Rihand Limited | Apprentice:** Automated certification tracking and optimized SAP-based administrative data workflows for a large-scale workforce.
+
+**Labmentix | Data Analytics Internship:** Led e-commerce and healthcare data preprocessing using SQL for OLAP optimization.
+
+**KultureHire | Data Analytics Internship:** Engineered statistical frameworks and dashboards for standardized career research reporting. 
+
+**🏆 Achievements & Certifications**
+
+
+SQL 🥇 HackerRank Gold BadgeData Science 🐍 Python Specialist Business Intelligence 📊 Power BI & DAX Expert 
+
+**📫 Let's Connect!**
+
+
+**LinkedIn: linkedin.com/in/deepakkumar7774**
+**Email: deepakkumarsingh7774@gmail.com**
 
 # Hi 👋, I'm Deepak Kumar 
 
