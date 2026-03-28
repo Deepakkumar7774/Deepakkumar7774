@@ -229,8 +229,13 @@ I successfully completed my **Data Analytics internship at Labmentix**, where I 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white) ![PowerPoint](https://img.shields.io/badge/Microsoft%20PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)  
 
 
+
 ## 📊 GitHub Stats:
-![Deepak's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Deepakkumar7774&show_icons=true&theme=radical&include_all_commits=true&count_private=true)  
+
+<p align="left">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Deepakkumar7774&show_icons=true&theme=radical&count_private=true" alt="Deepak's Stats" width="48%" />
+  
+
 
 
 ## 🏆 GitHub Trophies:
@@ -238,11 +243,15 @@ I successfully completed my **Data Analytics internship at Labmentix**, where I 
 
 
 ## 📊 GitHub Streak:
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Deepakkumar7774&theme=radical)  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Deepakkumar7774&theme=radical" alt="Deepak's Streak" width="48%" />
+</p>
 
 
 ## 🔝 Most Used Languages:
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Deepakkumar7774&layout=compact&theme=radical)  
+
+<p align="left">
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Deepakkumar7774&layout=compact&theme=radical" alt="Top Languages" width="48%" />
+  
 
 
 ## 📈 GitHub Activity Graph:
@@ -309,32 +318,3 @@ I am eager to explore opportunities that align with my technical skills and pass
 
 
 
-
-# README
-
-## Project Title
-A brief description of your project. It explains what the project is about and what it does.
-
-## Badges
-![GitHub stars](https://img.shields.io/github/stars/Deepakkumar7774/Deepakkumar7774?style=social)
-![GitHub forks](https://img.shields.io/github/forks/Deepakkumar7774/Deepakkumar7774?style=social)
-![GitHub issues](https://img.shields.io/github/issues/Deepakkumar7774/Deepakkumar7774)
-![Contributions](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)
-
-## Description
-This project aims to solve specific problems and provide functionalities that cater to user needs.
-
-## Installation
-Instructions to set up the project locally.
-
-## Usage
-Instructions and examples on how to use your project.
-
-## Contributing
-Guidelines for contributing to this project.
-
-## License
-Information about the project's license.
-
-## Contact
-For any inquiries, please contact [Deepakkumar7774](https://github.com/Deepakkumar7774).
