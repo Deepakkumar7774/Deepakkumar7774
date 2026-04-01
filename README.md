@@ -2,11 +2,11 @@
 
 # 🌟 Welcome to My GitHub Profile!
 
-# Hi 👋, I'm Deepak Kumar | Data Analyst & Engineer 🚀
+# Hi 👋, I'm Deepak Kumar | Analyst & Engineer 🚀
 
 ## 🌟 About Me
 
-I am a results-driven Data Analyst with a B.Sc. in Computer Science and a Diploma in CSE. My expertise lies in bridging the gap between raw data and executive strategy. From optimizing industrial workflows at NTPC Rihand to delivering global insights for PwC and Amazon Prime, I build scalable data systems that drive decision-making.
+I am a results-driven Analyst with a B.Sc. in Computer Science and a Diploma in CSE. My expertise lies in bridging the gap between raw data and executive strategy. From optimizing industrial workflows at NTPC Rihand to delivering global insights for PwC and Amazon Prime, I build scalable data systems that drive decision-making.
 
 ## **💼 Professional Experience**  
 
@@ -304,7 +304,7 @@ I am passionate about utilizing my diverse skill set to thrive in dynamic, data-
   
 ## 📈 What I'm Looking For:
 
-I am eager to explore opportunities that align with my technical skills and passion for creating value, particularly in **Data Analyst, Product Analyst, Business Analyst, Finance Analyst**.  
+I am eager to explore opportunities that align with my technical skills and passion for creating value, particularly in **Data Analyst, Data Operations Analyst, Data Management Analyst, Product Analyst, Business Analyst, Credit Risk Analyst, Finance Analyst**.  
 
   
 ## 📫 Let's Connect!
