@@ -6,7 +6,7 @@
 
 ## 🌟 About Me
 
-I am a results-driven Analyst with a B.Sc. in Computer Science and a Diploma in CSE. My expertise lies in bridging the gap between raw data and executive strategy. From optimizing industrial workflows at NTPC Rihand to delivering global insights for PwC and Amazon Prime, I build scalable data systems that drive decision-making.
+I am a results-driven analyst specializing in bridging the gap between raw data and executive strategy through scalable data systems and automated reporting. My experience includes optimizing industrial workflows at NTPC Rihand by replacing manual logs with high-integrity SAP and Excel automation, alongside delivering global KPI insights for PwC Switzerland and Tata. By leveraging Python, SQL, and Power BI, I transform complex datasets—from e-commerce trends to healthcare logistics—into actionable growth recommendations and streamlined organizational processes.
 
 ## **💼 Professional Experience**  
 
@@ -304,7 +304,7 @@ I am passionate about utilizing my diverse skill set to thrive in dynamic, data-
   
 ## 📈 What I'm Looking For:
 
-I am eager to explore opportunities that align with my technical skills and passion for creating value, particularly in **Data Analyst, Data Operations Analyst, Data Management Analyst, Product Analyst, Business Analyst, Credit Risk Analyst, Finance Analyst**.  
+I am eager to explore opportunities that align with my technical skills and passion for creating value, particularly in **Research Analyst, System Analyst, Data Analyst, Data Operations Analyst, Data Management Analyst, Product Analyst, Business Analyst, Credit Risk Analyst, Finance Analyst**.  
 
   
 ## 📫 Let's Connect!
