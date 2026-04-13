@@ -6,7 +6,7 @@
 
 ## 🌟 About Me
 
-I am a results-driven analyst specializing in bridging the gap between raw data and executive strategy through scalable data systems and automated reporting. My experience includes optimizing industrial workflows at NTPC Rihand by replacing manual logs with high-integrity SAP and Excel automation, alongside delivering global KPI insights for PwC Switzerland and Tata. By leveraging Python, SQL, and Power BI, I transform complex datasets—from e-commerce trends to healthcare logistics—into actionable growth recommendations and streamlined organizational processes.
+I am a results-driven analyst specializing in bridging the gap between raw data and executive strategy through scalable data systems and automated reporting. By leveraging Advanced Excel, Python, SQL, and Power BI, I transform complex datasets—from e-commerce trends to healthcare logistics—into actionable growth recommendations. My experience includes optimizing industrial workflows at NTPC Rihand and delivering global KPI insights for PwC Switzerland, Tata, and most recently, Electronic Arts (EA).
 
 ## **💼 Professional Experience**  
 
@@ -273,12 +273,13 @@ I successfully completed my **Data Analytics internship at Labmentix**, where I 
 ![GitHub Stars](https://img.shields.io/github/stars/Deepakkumar7774?style=social)  
 
 
-## 🎓 Certifications
+## 🎓 Featured Certifications
 - SQL Gold Badge, HackerRank 🥇  
 - Data Analytics Job Simulation, Quantium  
 - Data Visualisation Job Simulation, Tata Group  
 - Power BI Job Simulation, PwC Switzerland  
-- Master Data Management, TCS iON  
+- Master Data Management, TCS iON
+- Product Management Job Simulation, Electronics Arts (EA) 
 
   
 ## 📂 Notable Projects
