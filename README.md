@@ -310,7 +310,7 @@ I am eager to explore opportunities that align with my technical skills and pass
   
 ## 📫 Let's Connect!
 
-🚀 **💻 GitHub: [github.com/Deepakkumar7774](https://github.com/Deepakkumar7774)**  
+**💻🚀 Explore My GitHub Repositories: [github.com/Deepakkumar7774](https://github.com/Deepakkumar7774)**  
 **💬 Message me on [LinkedIn](https://www.linkedin.com/in/deepakkumar7774)**  
 **📬 Email me at [deepakkumarsingh7774@gmail.com](mailto:deepakkumarsingh7774@gmail.com)**  
 
