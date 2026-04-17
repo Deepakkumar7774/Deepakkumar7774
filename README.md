@@ -4,16 +4,40 @@
 
 # Hi 👋, I'm Deepak Kumar | Analyst & Engineer 🚀
 
-## 🌟 About Me
+## 🌟 Professional Narrative
 
-I am a results-driven analyst specializing in bridging the gap between raw data and executive strategy through scalable data systems and automated reporting. By leveraging Advanced Excel, Python, SQL, and Power BI, I transform complex datasets—from e-commerce trends to healthcare logistics—into actionable growth recommendations. My experience includes optimizing industrial workflows at NTPC Rihand and delivering global KPI insights for PwC Switzerland, Tata, and most recently, Electronic Arts (EA).
+I am a results-driven analyst specialized in bridging the gap between raw data and executive strategy through scalable data systems, automated reporting, and market advisory. My core strength lies in transforming complex datasets—from high-frequency trading logs to global healthcare logistics—into actionable growth recommendations.
+
+I recently completed a series of advanced Global Markets and Business Intelligence simulations, sharpening my ability to align technical data cleaning with executive-level decision-making for clients like Bank of America, PwC Switzerland, and Tata Group.
 
 ## **💼 Professional Experience**  
 
 
 **NTPC Rihand Limited | Apprentice:**  
 
--> Automated certification tracking and optimized SAP-based administrative data workflows for a large-scale workforce.  
+-> Organized comprehensive employee training programs, including advanced VR (virtual reality) simulation modules for safety and technical skills. 
+
+-> Managed training operations by calculating man-days and tracking attendance, progress, and certification completion across departments. 
+
+-> Leveraged Excel pivot tables, advanced functions, and conditional formatting to analyze training data and identify skill gaps. 
+
+-> Designed and deployed online assessments via Microsoft Forms for AP, SAP, and CP training, with detailed feedback analysis for curriculum improvement. 
+
+-> Handled official documentation, intranet uploads, Outlook correspondence, and SAP administrative tasks, including payroll, attendance, and project allocations for contract workers.
+ 
+
+**Data Analytics Internship – Labmentix**  
+
+-> Conducted end-to-end analysis of e-commerce and healthcare datasets.  
+
+-> Used Python, SQL, and Excel for data cleaning, preprocessing, and advanced analytics. 
+
+-> Built and shared data dashboards in Power BI, leveraging DAX for deeper analysis.  
+
+-> Designed and optimized databases, including database schema and ERD modeling.  
+
+-> Led exploratory data analysis and provided actionable business recommendations.
+
   
 **Data Analytics Internship – KultureHire**  
 
@@ -27,18 +51,20 @@ I am a results-driven analyst specializing in bridging the gap between raw data 
 
 -> Presented findings through compelling data storytelling and PowerPoint presentations.  
 
-  
-**Data Analytics Internship – Labmentix**  
 
--> Conducted end-to-end analysis of e-commerce and healthcare datasets.  
+**🎓 Strategic Certifications & Job Simulation**
+I have successfully completed elite-level simulations with global leaders to master market-specific analytical toolkits:
 
--> Used Python, SQL, and Excel for data cleaning, preprocessing, and advanced analytics. 
+-> **Bank of America | Global Markets Sales & Trading:** Analyzed interest rate shifts and sector volatility to provide actionable market advisory and investment recommendations.
 
--> Built and shared data dashboards in Power BI, leveraging DAX for deeper analysis.  
+-> **PwC Switzerland | Power BI Analyst:** Developed HR dashboards focusing on gender KPIs to identify and mitigate promotion disparities.
 
--> Designed and optimized databases, including database schema and ERD modeling.  
+-> **Tata Group | Data Visualization & GenAI:** Created executive-ready dashboards for strategic decision-making and performance tracking.
 
--> Led exploratory data analysis and provided actionable business recommendations.
+-> **Electronic Arts (EA) | Product Management:** Optimized RPG performance by architecting data frameworks for Retention and ARPU KPIs.
+
+-> **Quantium | Data Analytics:** Delivered data-driven retail insights and statistical modeling for consumer behavior.
+
 
 
 ## 📊 Current Focus
@@ -212,6 +238,8 @@ I successfully completed my **Data Analytics internship at Labmentix**, where I 
   
 ## 🛠️ Skills & Tools  
 
+-> Market Analysis: DCF Valuation, M&A Advisory, Interest Rate Trends, Sector Performance (Tech/Healthcare), A/B Testing.
+
 -> Python (Pandas, NumPy, Matplotlib, Seaborn), SQL (MySQL, PostgreSQL), Database Schema Design, and ERD Modeling.  
 
 -> BI & Visualization: Power BI (Advanced DAX), Tableau, and Advanced Excel (XLOOKUP, Pivot Tables).  
@@ -281,6 +309,7 @@ I successfully completed my **Data Analytics internship at Labmentix**, where I 
 - Power BI Job Simulation, PwC Switzerland  
 - Master Data Management, TCS iON
 - Product Management Job Simulation, Electronics Arts (EA)
+- GenAI Powered Data Analytics Job Simulation, Tata Group
 - Global Markets Sales and Trading Analyst Job Simulation, Bank Of America
 
   
@@ -304,13 +333,13 @@ I successfully completed my **Data Analytics internship at Labmentix**, where I 
 
 I am passionate about utilizing my diverse skill set to thrive in dynamic, data-driven environments. My focus lies in delivering impactful solutions by transforming complex datasets into actionable insights, solving real-world problems, and enhancing decision-making processes. With a strong foundation in analytics, problem-solving, and customer engagement, I aim to contribute meaningfully to projects that drive organizational growth and innovation.  
 
-  
-## 📈 What I'm Looking For:
 
-I am eager to explore opportunities that align with my technical skills and passion for creating value, particularly in **Research Analyst, System Analyst, Data Analyst, Data Operations Analyst, Data Management Analyst, Product Analyst, Business Analyst, Credit Risk Analyst, Finance Analyst**.  
+**📈 What I’m Looking For:**
+
+I am eager to contribute to high-stakes, data-driven environments as a: **Data Analyst | Research Analyst | Data Operations Analyst | Product Analyst | Credit Risk Analyst | Business Analyst | Finance Analyst | Data Management Analyst | System Analyst | Market Analyst | Trading and Market Analyst** 
 
   
-## 📫 Let's Connect!
+## 📫 Let's Connect with me!
 
 **💻🚀 Explore My GitHub Repositories: [github.com/Deepakkumar7774](https://github.com/Deepakkumar7774)**  
 **💬 Message me on [LinkedIn](https://www.linkedin.com/in/deepakkumar7774)**  
