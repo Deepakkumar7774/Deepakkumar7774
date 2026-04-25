@@ -102,23 +102,23 @@ I successfully completed my **Data Analytics internship at Labmentix**, where I 
 **1. E-Commerce Project Analysis**  
 
 
-- **Data preprocessing and cleaning using Python and Excel**  
-- **Creating interactive dashboards and reports in Power BI**  
-- **Using SQL for data extraction and transformation**  
-- **Applying DAX for advanced data analysis in Power BI**  
+- Data preprocessing and cleaning using Python and Excel  
+- Creating interactive dashboards and reports in Power BI  
+- Using SQL for data extraction and transformation
+- Applying DAX for advanced data analysis in Power BI 
 
   
 **(2) Projects**  
 
 **1. Medibuddy Capstone Project Using Python**  
 
-- **Data cleaning and preprocessing**
+- Data cleaning and preprocessing
   
-- **Exploratory data analysis (EDA)**
+- Exploratory data analysis (EDA)
     
-- **Visualization of key insights**
+- Visualization of key insights
   
-- **Impact analysis of different factors on insurance claims**  
+- Impact analysis of different factors on insurance claims  
 
   
 **🛠 Technologies Used**  
@@ -321,6 +321,7 @@ I successfully completed my **Data Analytics internship at Labmentix**, where I 
 
   
 ## 📂 Notable Projects
+
 1. [Call Center Analysis](https://github.com/Deepakkumar7774/Call-Center-Analysis)  
 2. [Diversity & Inclusion Analysis](https://github.com/Deepakkumar7774/Diversity-Inclusion-Analysis)  
 3. [FlipMart Sales Analysis](https://github.com/Deepakkumar7774/FlipMart-Sales-Analysis)  
