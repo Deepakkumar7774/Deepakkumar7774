@@ -55,15 +55,23 @@ I recently completed a series of advanced Global Markets and Business Intelligen
 **🎓 Strategic Certifications & Job Simulation**
 I have successfully completed elite-level simulations with global leaders to master market-specific analytical toolkits:
 
--> **Bank of America | Global Markets Sales & Trading:** Analyzed interest rate shifts and sector volatility to provide actionable market advisory and investment recommendations.
+-> **Quantium | Data Analytics:** Delivered data-driven retail insights and statistical modeling for consumer behavior.
+
+-> **Deloitte | Data Analytics:** Optimized industrial operations via Tableau dashboards and applied forensic Excel 
+modeling to drive strategic business conclusions.
 
 -> **PwC Switzerland | Power BI Analyst:** Developed HR dashboards focusing on gender KPIs to identify and mitigate promotion disparities.
 
 -> **Tata Group | Data Visualization & GenAI:** Created executive-ready dashboards for strategic decision-making and performance tracking.
 
+-> **Bank of America | Global Markets Sales & Trading:** Analyzed interest rate shifts and sector volatility to provide actionable market 
+advisory and investment recommendations.
+
+
+
 -> **Electronic Arts (EA) | Product Management:** Optimized RPG performance by architecting data frameworks for Retention and ARPU KPIs.
 
--> **Quantium | Data Analytics:** Delivered data-driven retail insights and statistical modeling for consumer behavior.
+
 
 
 
