@@ -67,12 +67,7 @@ modeling to drive strategic business conclusions.
 -> **Bank of America | Global Markets Sales & Trading:** Analyzed interest rate shifts and sector volatility to provide actionable market 
 advisory and investment recommendations.
 
-
-
 -> **Electronic Arts (EA) | Product Management:** Optimized RPG performance by architecting data frameworks for Retention and ARPU KPIs.
-
-
-
 
 
 ## 📊 Current Focus
