@@ -305,15 +305,19 @@ I successfully completed my **Data Analytics internship at Labmentix**, where I 
 
 
 ## 🎓 Featured Certifications
+
 - SQL Gold Badge, HackerRank 🥇
+  
   **Forage**
-- Data Analytics Job Simulation, Quantium  
+- Data Analytics Job Simulation, Quantium
+- GenAI Powered Data Analytics Job Simulation, Tata Group
+- Data Analytics Job Simulation, Deloitte Australia
 - Data Visualisation Job Simulation, Tata Group  
 - Power BI Job Simulation, PwC Switzerland  
 - Master Data Management, TCS iON
-- Product Management Job Simulation, Electronics Arts (EA)
-- GenAI Powered Data Analytics Job Simulation, Tata Group
 - Global Markets Sales and Trading Analyst Job Simulation, Bank Of America
+- Product Management Job Simulation, Electronics Arts (EA)
+
 
   
 ## 📂 Notable Projects
