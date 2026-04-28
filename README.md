@@ -8,7 +8,7 @@
 
 I am a results-driven analyst specialized in bridging the gap between raw data and executive strategy through scalable data systems, automated reporting, and market advisory. My core strength lies in transforming complex datasets—from high-frequency trading logs to global healthcare logistics—into actionable growth recommendations.
 
-I recently completed a series of advanced Global Markets and Business Intelligence simulations, sharpening my ability to align technical data cleaning with executive-level decision-making for clients like Bank of America, PwC Switzerland, and Tata Group.
+I recently completed a series of advanced Global Markets and Business Intelligence simulations, sharpening my ability to align technical data cleaning with executive-level decision-making for clients like Deloitte, Bank of America, PwC Switzerland, and Tata Group.
 
 ## **💼 Professional Experience**  
 
