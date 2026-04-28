@@ -4,6 +4,14 @@
   </a>
 </div>
 
+<div align="center">
+  <a href="https://www.linkedin.com/in/deepakkumar7774">
+    <img src="https://raw.githubusercontent.com/Deepakkumar7774/Deepakkumar7774/main/White%20Minimalist%20Corporate%20Personal%20Profile%20LinkedIn%20Banner.png" width="100%" alt="Deepak Kumar - Open To Work">
+  </a>
+</div>
+
+<br />
+
 ![Profile Views](https://komarev.com/ghpvc/?username=Deepakkumar7774&color=green&style=for-the-badge)
 
 # 🌟 Welcome to My GitHub Profile!
