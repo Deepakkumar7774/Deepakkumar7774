@@ -1,3 +1,9 @@
+<div align="center">
+  <a href="https://www.linkedin.com/in/deepakkumar7774">
+    <img src="YOUR_IMAGE_LINK_HERE" width="100%" alt="Open To Work Banner">
+  </a>
+</div>
+
 ![Profile Views](https://komarev.com/ghpvc/?username=Deepakkumar7774&color=green&style=for-the-badge)
 
 # 🌟 Welcome to My GitHub Profile!
