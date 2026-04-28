@@ -2,7 +2,7 @@
 
 # 🌟 Welcome to My GitHub Profile!
 
-# Hi 👋, I'm Deepak Kumar | Analyst & Engineer 🚀
+# Hi 👋, I'm Deepak Kumar | Data Enthusiast 🚀
 
 ## 🌟 Professional Narrative
 
