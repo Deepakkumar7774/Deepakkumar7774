@@ -10,13 +10,23 @@
 
 # 🌟 Welcome to My GitHub Profile!
 
-# Hi 👋, I'm Deepak Kumar | Data Enthusiast 🚀
+# Hi 👋, I'm Deepak Kumar | Data Analyst & Business Intelligence Specialist
 
 ## 🌟 Professional Narrative
 
 I am a results-driven analyst specialized in bridging the gap between raw data and executive strategy through scalable data systems, automated reporting, and market advisory. My core strength lies in transforming complex datasets—from high-frequency trading logs to global healthcare logistics—into actionable growth recommendations.
 
 I recently completed a series of advanced Global Markets and Business Intelligence simulations, sharpening my ability to align technical data cleaning with executive-level decision-making for clients like Deloitte, Bank of America, PwC Switzerland, and Tata Group.
+
+
+### 🛠️ Technical Firepower & Stack
+
+* **Databases & Querying:** SQL (T-SQL, PostgreSQL, MySQL) 
+* **Programmatic Analytics:** Python (Pandas, NumPy, Matplotlib, Seaborn) 
+* **Business Intelligence (BI):** Microsoft Power BI (Advanced DAX), Tableau, Advanced Excel (Power Query)
+* **Methodologies:** Data Modeling (Star Schema), ETL Processes, KPI Mapping, Process Automation, UAT
+* **GenAI & Presentation Tools:** GitHub Copilot, ChatGPT, Microsoft Office 365 (PowerPoint for Executive-Ready Corporate Presentations, Word)
+
 
 ## **💼 Professional Experience**  
 
@@ -355,13 +365,16 @@ I am passionate about utilizing my diverse skill set to thrive in dynamic, data-
 I am eager to contribute to high-stakes, data-driven environments as a: **Data Analyst | Research Analyst | Data Operations Analyst | Product Analyst | Credit Risk Analyst | Business Analyst | Finance Analyst | Data Management Analyst | System Analyst | Market Analyst | Trading and Market Analyst** 
 
   
-## 📫 Let's Connect with me!
+## 📫 Let's Connect & Innovate!
 
 **💻🚀 Explore My GitHub Repositories: [github.com/Deepakkumar7774](https://github.com/Deepakkumar7774)**  
 **💬 Message me on [LinkedIn](https://www.linkedin.com/in/deepakkumar7774)**  
 **📬 Email me at [deepakkumarsingh7774@gmail.com](mailto:deepakkumarsingh7774@gmail.com)**  
 
-**Feel free to explore my repositories or connect with me to discuss how I can contribute to your projects.**
+
+**"I believe data is the ultimate competitive advantage."**
+
+
 
 
 
