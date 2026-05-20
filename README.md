@@ -340,10 +340,10 @@ I successfully completed my **Data Analytics internship at Labmentix**, where I 
   
 ## 📂 Notable Projects
 
-1. [Call Center Analysis](https://github.com/Deepakkumar7774/Call-Center-Analysis)  
+1. [Call Center Analysis Dashboard](https://github.com/Deepakkumar7774/Call-Center-Analysis-Dashboard)  
 2. [Diversity & Inclusion Analysis](https://github.com/Deepakkumar7774/Diversity-Inclusion-Analysis)  
 3. [FlipMart Sales Analysis](https://github.com/Deepakkumar7774/FlipMart-Sales-Analysis)  
-4. [E-Commerce-Project-Analysis](https://github.com/Deepakkumar7774/E-Commerce-Project-Analysis)  
+4. [E-Commerce-Project-Analysis-Dashboard](https://github.com/Deepakkumar7774/E-Commerce-Project-Analysis-Dashboard)  
 5. [Digital-Clock-Using-in-Python](https://github.com/Deepakkumar7774/Digital-Clock-Using-in-Python)  
 6. [Career-Aspirations-of-Gen-Z](https://github.com/Deepakkumar7774/Career-Aspirations-of-Gen-Z)  
 7. [Medibuddy-Insurance-Analysis-in-Python](https://github.com/Deepakkumar7774/Medibuddy-Insurance-Analysis-in-Python)  
