@@ -279,7 +279,15 @@ I successfully completed my **Data Analytics internship at Labmentix**, where I 
 
 
 ## 💻 Tech Stack:
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white) ![PowerPoint](https://img.shields.io/badge/Microsoft%20PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)  
+
+### 📊 Core Data Analytics & BI
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&angle=one&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+
+### 📈 Spreadsheets & Executive Reporting
+![Advanced Excel](https://img.shields.io/badge/Advanced_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) ![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white) ![PowerPoint](https://img.shields.io/badge/Microsoft%20PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+
+### 🤖 GenAI Tools & Productivity
+![ChatGPT](https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge&logo=openai&logoColor=white) ![Claude](https://img.shields.io/badge/Claude-D97706?style=for-the-badge&logo=anthropic&logoColor=white) ![Gemini](https://img.shields.io/badge/Gemini-8E75FF?style=for-the-badge&logo=googlegemini&logoColor=white) ![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-24292E?style=for-the-badge&logo=githubcopilot&logoColor=white)
 
 
 
@@ -300,11 +308,19 @@ I successfully completed my **Data Analytics internship at Labmentix**, where I 
 </p>
 
 
-## 🔝 Most Used Languages:
+## 🔝 Most Used Languages & Core Frameworks:
 
 <p align="left">
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Deepakkumar7774&layout=compact&theme=radical" alt="Top Languages" width="48%" />
   
+  <a href="https://github.com/Deepakkumar7774">
+    <img src="https://img.shields.io/badge/SQL_&_Databases-MySQL%20%7C%20PostgreSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
+    <img src="https://img.shields.io/badge/Business_Intelligence-Power_BI_%7C%20Tableau-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI & BI Tools" />
+    <img src="https://img.shields.io/badge/Spreadsheets-Advanced_Excel_%7C%20Google%20Sheets-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Advanced Excel & Google Sheets" />
+    <img src="https://img.shields.io/badge/GenAI_Ecosystem-ChatGPT%20%7C%20Claude%20%7C%20Gemini%20%7C%20Copilot-00A2ED?style=for-the-badge&logo=openai&logoColor=white" alt="GenAI Tools" />
+    <img src="https://img.shields.io/badge/Executive_Reporting-PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white" alt="PowerPoint" />
+  </a>
+</p>
 
 
 ## 📈 GitHub Activity Graph:
