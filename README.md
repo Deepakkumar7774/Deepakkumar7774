@@ -332,7 +332,7 @@ I successfully completed my **Data Analytics internship at Labmentix**, where I 
 
 
 ## 🏆 Total Contributions:
-![GitHub Contributions](https://github-readme-stats.vercel.app/api?username=Deepakkumar7774&count_private=true&show_icons=true&theme=radical)  
+![GitHub Contributions](https://github-readme-stats-sigma-five.vercel.app/api?username=Deepakkumar7774&show_icons=true&theme=radical&count_private=true)
 
 
 ## 🚀 GitHub Followers:
