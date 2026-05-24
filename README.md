@@ -16,7 +16,7 @@
 
 I am a results-driven analyst specialized in bridging the gap between raw data and executive strategy through scalable data systems, automated reporting, and market advisory. My core strength lies in transforming complex datasets—from high-frequency trading logs to global healthcare logistics—into actionable growth recommendations.
 
-I recently completed a series of advanced Global Markets and Business Intelligence simulations, sharpening my ability to align technical data cleaning with executive-level decision-making for clients like Deloitte, Bank of America, PwC Switzerland, and Tata Group.
+I recently completed a series of advanced Global Markets, Banking, and Business Intelligence simulations, sharpening my ability to align technical data cleaning with executive-level decision-making for clients like Standard Chartered Bank, Deloitte, Quantium, Bank of America, PwC Switzerland, and Tata Group.
 
 
 ### 🛠️ Technical Firepower & Stack
@@ -81,6 +81,8 @@ modeling to drive strategic business conclusions.
 -> **PwC Switzerland | Power BI Analyst:** Developed HR dashboards focusing on gender KPIs to identify and mitigate promotion disparities.
 
 -> **Tata Group | Data Visualization & GenAI:** Created executive-ready dashboards for strategic decision-making and performance tracking.
+
+-> **Standard Chartered Bank |Credit Analyst:** Conducted an annual credit review and financial statement analysis for a corporate client to evaluate creditworthiness and mitigate risk.
 
 -> **Bank of America | Global Markets Sales & Trading:** Analyzed interest rate shifts and sector volatility to provide actionable market 
 advisory and investment recommendations.
@@ -283,6 +285,7 @@ I successfully completed my **Data Analytics internship at Labmentix**, where I 
 
 <p align="left">
   <img src="https://github-readme-stats-fast.vercel.app/api?username=Deepakkumar7774&show_icons=true&theme=radical&count_private=true" alt="Deepak's Stats" width="48%" />
+  <p align="left">
   
 
 ## 🏆 GitHub Trophies:
@@ -327,6 +330,8 @@ I successfully completed my **Data Analytics internship at Labmentix**, where I 
 - SQL Gold Badge, HackerRank 🥇
   
   **Forage**
+  
+- Credit Analyst Job Simulation, Standard Chartered Bank
 - Data Analytics Job Simulation, Quantium
 - GenAI Powered Data Analytics Job Simulation, Tata Group
 - Data Analytics Job Simulation, Deloitte Australia
