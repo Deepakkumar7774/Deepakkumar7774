@@ -82,7 +82,7 @@ modeling to drive strategic business conclusions.
 
 -> **Tata Group | Data Visualization & GenAI:** Created executive-ready dashboards for strategic decision-making and performance tracking.
 
--> **Standard Chartered Bank |Credit Analyst:** Conducted an annual credit review and financial statement analysis for a corporate client to evaluate creditworthiness and mitigate risk.
+-> **Standard Chartered Bank | Credit Analyst:** Conducted an annual credit review and financial statement analysis for a corporate client to evaluate creditworthiness and mitigate risk.
 
 -> **Bank of America | Global Markets Sales & Trading:** Analyzed interest rate shifts and sector volatility to provide actionable market 
 advisory and investment recommendations.
@@ -261,7 +261,9 @@ I successfully completed my **Data Analytics internship at Labmentix**, where I 
   
 ## 🛠️ Skills & Tools  
 
--> Market Analysis: DCF Valuation, M&A Advisory, Interest Rate Trends, Sector Performance (Tech/Healthcare), A/B Testing.
+-> Market & Credit Analysis: Credit Analysis, Financial Statement Analysis, DCF Valuation, M&A Advisory, Interest Rate Trends, Sector Performance (Tech/Healthcare), and A/B Testing.
+
+-> Risk & Financial Analytics: Quantitative Analysis, Risk Identification, Credit Risk Assessment, Business Liquidity Analysis, and Accounting Fundamentals.
 
 -> Python (Pandas, NumPy, Matplotlib, Seaborn), SQL (MySQL, PostgreSQL), Database Schema Design, and ERD Modeling.  
 
@@ -269,7 +271,7 @@ I successfully completed my **Data Analytics internship at Labmentix**, where I 
 
 -> Operations & Automation: SharePoint Page Customization, SAP, Power Automate, and Microsoft Office 365.  
 
--> Analytics Specialties: Exploratory Data Analysis (EDA), Statistical Modeling, Trend Analysis, and Data Warehousing Standards.  
+-> Analytics Specialties: Exploratory Data Analysis (EDA), Statistical Modeling, Trend Analysis, Presentation Skills, Research, and Data Warehousing Standards.
 
   
 ## 🌐 Socials:
@@ -367,7 +369,13 @@ I am passionate about utilizing my diverse skill set to thrive in dynamic, data-
 
 **📈 What I’m Looking For:**
 
-I am eager to contribute to high-stakes, data-driven environments as a: **Data Analyst | Research Analyst | Data Operations Analyst | Product Analyst | Credit Risk Analyst | Business Analyst | Finance Analyst | Data Management Analyst | System Analyst | Market Analyst | Trading and Market Analyst** 
+I am eager to contribute to high-stakes, data-driven environments as a: 
+
+**Core Business Intelligence:** Power BI Developer | BI Analyst | Tableau Developer | Reporting Analyst | Insights Analyst | MIS Analyst | Operations Analyst | System Analyst
+
+**Advanced & Engineering Analytics:** Data Analyst | Product Analyst | Data Operations Analyst | Data Management Analyst | Junior Data Engineer | Associate Data Architect | Analytics Specialist
+
+**Domain-Specific (Finance, Risk & Markets):** Credit Risk Analyst | Finance Analyst | Market Analyst | Trading and Market Analyst | Financial Data Analyst | Research Analyst
 
   
 ## 📫 Let's Connect & Innovate!
