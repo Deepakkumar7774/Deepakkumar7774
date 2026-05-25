@@ -10,7 +10,10 @@
 
 # 🌟 Welcome to My GitHub Profile!
 
-# Hi 👋, I'm Deepak Kumar | Data Analyst & Business Intelligence Specialist
+# Hi 👋, I'm Deepak Kumar | Full-Stack Data Analyst & Business Intelligence Specialist
+
+## 🚀 Cross-Industry Data Solutions & Decision Intelligence
+
 
 ## 🌟 Professional Narrative
 
